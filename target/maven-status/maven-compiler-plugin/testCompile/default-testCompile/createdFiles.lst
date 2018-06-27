@@ -1,0 +1,5 @@
+assessment\webservice\rest\utility\ParserUtils.class
+assessment\webservice\rest\stepdefinitions\RestWebServiceTestStepDefinition.class
+assessment\webservice\rest\test\RestWebServiceTest.class
+assessment\webservice\rest\utility\Context.class
+assessment\webservice\rest\runner\Runcukes.class
